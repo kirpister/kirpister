@@ -1,6 +1,6 @@
 Hey y'all!
 
-My name is Jenni and I am currently studying to be a web developer at Business College Helsinki. 
+My name is Jenni and I am currently studying to become a web developer at Business College Helsinki. 
 When I'm not glued to the screens you can find me on the pitch playing football or spinning some records, some things are just better analog! &#127926;
 
 
