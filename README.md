@@ -11,7 +11,7 @@ Come find me on <br>
 [![linkedin](https://user-images.githubusercontent.com/77112303/192090632-04ccf81b-9e52-49f4-9efd-48b821013c7c.png)][2]
 [![vinyllove](https://user-images.githubusercontent.com/77112303/192090633-68e54c43-2c55-4ffd-a271-a98e36aac002.png)][3]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirpister&layout=compact)](https://github.com/kirpister/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirpister&layout=compact&theme=radical)](https://github.com/kirpister/github-readme-stats)
 
 [1]: https://www.instagram.com/kirpister/?hl=fi
 [2]: https://fi.linkedin.com/in/jenni-alanko77
