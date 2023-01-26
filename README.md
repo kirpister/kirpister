@@ -3,7 +3,7 @@ Hey y'all!
 My name is Jenni and I am currently studying to become a web developer at Business College Helsinki. 
 When I'm not glued to the screens you can find me on the pitch playing football or spinning some records, some things are just better analog! &#127926;
 
-
+Check out my personal site over [here!](https://kirpister.vercel.app/)
 
 Come find me on <br>
 <br>
