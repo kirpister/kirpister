@@ -1,8 +1,12 @@
-Hey y'all!
+✨ Hey y'all! ✨ 
 
-My name is Jenni and I am currently studying to become a web developer at Business College Helsinki. 
-When I'm not glued to the screens you can find me on the pitch playing football or spinning some records, some things are just better analog! &#127926;
-
+My name is Jenni and I have recently graduated from Business College Helsinki Full Stack Developer program.
+My passion lies in the world of front-end development, where I find joy in crafting seamless user experiences and recently dabbling in JavaScript animations.  <br>
+<br>
+I'm actively seeking opportunities for a junior web developer position in the Helsinki region.<br>
+<br>
+When I'm not glued to the screens you can find me on the pitch playing football or spinning some records, some things are just better analog! &#127926;<br>
+<br>
 Check out my personal site over [here!](https://kirpister.vercel.app/)
 
 Come find me on <br>
