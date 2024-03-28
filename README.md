@@ -7,7 +7,7 @@ I'm actively seeking opportunities for a web developer position in the Helsinki 
 <br>
 When I'm not glued to the screens you can find me on the pitch playing football or spinning some records, some things are just better analog! &#127926;<br>
 <br>
-Check out my personal site over [here!](https://kirpister.vercel.app/)
+Check out my personal site over [here!](https://alanko.vercel.app/)
 
 Come find me on <br>
 <br>
